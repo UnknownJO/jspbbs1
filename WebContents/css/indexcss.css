@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* side menu */
+ul {
+  list-style-type: none;
+  margin: 50;
+  padding: 0;
+  width: 250px;
+  background-color: #111827;
+}
+
+li a {
+  display: block;
+  color: #FFFFFF;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #111827;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #2A323E;
+  color: white;
+}
+/* table */
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%; 
+   
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #111827;
+  color: white;
+} 
+	#div1 { 
+		float:left;
+		margin: 70px; 
+	}
+	#div3 {
+		float: center;
+		padding : 10px;
+		margin: "";
+	}
+	footer {
+		position: absolute;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+	padding: 15px 0;
+
+	text-align: center;
+
+	}
+	#searchbtn{  
+		background: #111827; 
+		color: white;
+		margin:3px;
+	}
+	#writebtn{  
+		background: #111827; 
+		color: white;
+		margin-left: 400px;
+	}
+	#div4{
+		margin-left: 400px;
+	}
+	
+  /* 게시판 글쓰기 CSS*/ 

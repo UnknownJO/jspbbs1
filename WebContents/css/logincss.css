@@ -1,0 +1,30 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&display=swap');
+body {
+		/*background-color:#ACACAC;*/ 
+		background-color:#2A323E; 
+		/*background-image: url('./img/backdrop-874452.jpg');*/
+		font-family: 'Black Han Sans', sans-serif;
+		font-family: 'Do Hyeon', sans-serif;
+	}
+	 #btn {
+		 height:46px;
+	}
+	 table {
+	     margin: auto;
+	  
+    }
+     #cp1{
+         padding-top:300px;
+    }
+     #div2 {
+      	 text-align:center;
+      	 margin: 13px;
+     }
+     a{
+     	color:white;
+     }
+	footer {
+		text-align: center; 
+		padding: 350px;
+	}
