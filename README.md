@@ -1,4 +1,4 @@
-JSP ブログWeb Project(1人)
+<h4>JSP ブログWeb Project(1人)</h4>
 
 紹介: Java、JSPと SERVLET、JavaScript、AJAXを活用して開発。
 
