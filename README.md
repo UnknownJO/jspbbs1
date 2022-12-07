@@ -1,5 +1,4 @@
-JSP 게시판 프로젝트
+JSP ブログWeb Project(1人)
 
-소개: JSP와 SERVLET, AJAX를 활용한 제가 만들어본 첫 개인 웹게시판입니다.
-
-목적: JAVA를 배운지 얼마 안됐고 새로배운 지식을 활용 해보는것이 가장 큰 목적이었습니다.
+紹介: Java、JSPと SERVLET、JavaScript、AJAXを活用して開発。
+会員登録、ログイン、書き込み投稿、修正、削除、検索機能、Paging機能など。
